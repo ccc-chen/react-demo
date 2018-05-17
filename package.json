@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "description": "react",
+  "main": "react",
+  "repository": "react",
+  "author": "chenhuan",
+  "license": "react",
+  "private": null,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
